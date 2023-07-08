@@ -17,7 +17,7 @@
 ##
 
 <div>
-  <a href="https://www.linkedin.com/in/#" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-006AFF?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/isabelaavelar" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-006AFF?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" target="_blank"></a>
   <a href="https://www.youtube.com/@isaavelar" target="_blank"><img src="https://img.shields.io/badge/YouTube-006AFF?style=for-the-badge&logo=youtube&logoColor=FFFFFF" target="_blank"></a>
   <a href="https://www.instagram.com/#" target="_blank"><img src="https://img.shields.io/badge/-Instagram-006AFF?style=for-the-badge&logo=instagram&logoColor=FFFFFF" target="_blank"></a>
 </div>
